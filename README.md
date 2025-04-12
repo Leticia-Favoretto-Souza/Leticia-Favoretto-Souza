@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Desenvolvimento de Soft
   - LinkedIn: [linkedin.com/in/leticia-favoretto-de-souza](https://www.linkedin.com/in/leticia-favoretto-de-souza-6b587b17b)  
   - E-mail: lett.favoretto@gmail.com  
 
-
+---
 
 ## 🔧 **Aprendendo**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Desenvolvimento de Soft
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
 
 
-
+---
 
 ## 🛠 **Projetos Destacados**  
 
@@ -49,7 +49,7 @@ Minha experiência em **gestão de informações** (acervos históricos, arquite
 - 📊 **Organização** e atenção a detalhes (herdados da catalogação de acervos).  
 - 🌍 **Visão multidisciplinar** para criar soluções que integrem tecnologia e sociedade.  
 
- 
+ ---
 
 ## 📌 **Objetivos**  
 Minha trajetória me ensinou a organizar sistemas complexos de informação, criar estratégias de divulgação de acervos e trabalhar com diversidade de públicos. Agora, Busco minha primeira oportunidade como **desenvolvedora júnior** para aplicar essa visão analítica e multidisciplinar no desenvolvimento de softwares que simplifiquem processos ou democratizem o acesso ao conhecimento.
