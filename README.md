@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Desenvolvimento de Soft
 - 💡 Interesses: **Tecnologia para impacto social**, educação digital e projetos que unam cultura e inovação.  
 - 📫 Como me encontrar:  
   - LinkedIn: [linkedin.com/in/leticia-favoretto-de-souza](https://www.linkedin.com/in/leticia-favoretto-de-souza-6b587b17b)  
-  - E-mail: lett.favoretto@gmail.com  
+  - E-mail: leti.favoretto@gmail.com  
 
 ---
 
