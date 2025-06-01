@@ -56,9 +56,6 @@ Minha trajetória me ensinou a organizar sistemas complexos de informação, cri
 
 ---  
 
-[![card](https://github-readme-stats.vercel.app/api?username=Leticia-Favoretto-Souza&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Favoretto-Souza&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 **Vamos conversar?** Estou aberta a colaborações, feedbacks e novas conexões! ✨  
 
 ---  
